@@ -1,3 +1,5 @@
+cd mllib
+
 # Create a virtual environment if it doesn't exist
 if [ ! -d "venv" ]; then
 

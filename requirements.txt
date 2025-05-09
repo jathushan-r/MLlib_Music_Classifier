@@ -1,6 +1,0 @@
-streamlit==1.29.0
-numpy==1.21.5
-pyspark==3.4.1
-nltk==3.7
-pandas==2.0.3
-plotly==5.18.0
